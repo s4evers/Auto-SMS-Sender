@@ -1,1 +1,4 @@
-selenium
+Paste to phone numbers list.
+Example for Poland numbers:
+699565886
+459261789
