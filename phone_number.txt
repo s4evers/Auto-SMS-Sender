@@ -1,4 +1,0 @@
-Paste to list phone numbers for SMS sending.
-Example with Poland numbers:
-699565399
-459261324
